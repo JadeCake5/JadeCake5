@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <img src="./images/header.png" width="600" alt="Header" />
+  <img src="./images/header.gif" width="600" alt="Header Animation" />
 </div>
 
 <div align="center">
