@@ -83,7 +83,7 @@ I enjoy exploring new technologies and building things that interest me.
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShiratamaKeki/ShiratamaKeki/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/ShiratamaKeki/ShiratamaKeki/refs/heads/main/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </div>
 
 ---
