@@ -149,16 +149,6 @@ Currently exploring:
 </div>
 
 ---
+> 人最宝贵的是生命，这生命属于每个人，只有一次。人的一生应该这样度过，当他回首往事的时候，不因虚度年华而悔恨，也不以碌碌无为而羞耻，这样在临死的时候，他可以说：我的整> 个生命和全部精力，都奉献给了世界上最壮丽的事业，为全人类的解放而斗争！
 
-## 🌌 A Few Words
-
-<div align="center">
-
-**The universe is vast.
-There is always something new waiting to be understood.**
-
-<br/>
-
-*Keep learning. Keep building.*
-
-</div>
+> The most precious thing a person possesses is life. It is given to them but once, and they should live it in such a way that they have no torturing regrets for > years without purpose, and no burning shame for a past of trivialities; so that when dying they can say: 'All my life and all my strength were given to the > finest cause in the world—the fight for the liberation of mankind!
