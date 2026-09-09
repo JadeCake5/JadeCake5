@@ -78,12 +78,12 @@ I enjoy exploring new technologies and building things that interest me.
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShiratamaKeki&show_icons=true&theme=github_dark" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiratamaKeki&theme=github_dark&hide=JavaScript,HTML,CSS" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JadeCake5&show_icons=true&theme=github_dark" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadeCake5&theme=github_dark&hide=JavaScript,HTML,CSS" alt="Top Languages" height="180"/>
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShiratamaKeki/ShiratamaKeki/refs/heads/main/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/JadeCake5/JadeCake5/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </div>
 
 ---
